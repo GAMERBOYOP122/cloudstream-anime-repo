@@ -1,0 +1,12 @@
+Enter{
+  "name": "AnimeDub Repo",
+  "plugins": [
+    {
+      "name": "AnimeDub",
+      "version": 1,
+      "language": "hi",
+      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/cloudstream-anime-repo/main/AnimeDubPlugin.cs3",
+      "description": "Hindi dubbed anime from animedub.pro"
+    }
+  ]
+}
