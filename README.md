@@ -1,0 +1,2 @@
+# cloudstream-anime-repo
+lol
